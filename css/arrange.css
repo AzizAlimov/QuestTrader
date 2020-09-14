@@ -1,0 +1,4 @@
+.arrange-vertically > * {
+    display: block;
+    margin: 5em;
+}
